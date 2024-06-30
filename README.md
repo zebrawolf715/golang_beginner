@@ -1,1 +1,3 @@
-# golang と React で構築
+# golang
+
+基礎勉強
